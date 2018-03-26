@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MiniGames/AnimalRacing/Scenes/Play.unity
+  isLoaded: 1
+  isActive: 1
